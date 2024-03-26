@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Udit3944/Udit3944/blob/main/Banner%20Image.png)
 <h1 align="center">Hi 👋, I'm Udit Gami</h1>
 <h3 align="center">A passionate Web developer from Canada</h3>
 
