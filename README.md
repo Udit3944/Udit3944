@@ -1,10 +1,15 @@
 ![logo](https://github.com/Udit3944/Udit3944/blob/main/Banner%20Image.png)
-<h1 align="center">Hi 👋, I'm Udit Gami</h1>
-<h3 align="center">A passionate Computer Programmer from Ontario, Canada</h3>
+  
+ <h1 align="center">Hi 👋, I'm Udit Gami</h1>
+<h3 align="center">A passionate Web developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit3944&label=Profile%20views&color=0e75b6&style=flat" alt="udit3944" /> </p>
 
-- 🌱 I’m currently learning ** UI & UX Designing, Backend Development, cloud services, AWS**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udit3944" alt="udit3944" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/udit3944" target="blank"><img src="https://img.shields.io/twitter/follow/udit3944?logo=twitter&style=for-the-badge" alt="udit3944" /></a> </p>
+
+- 🌱 I’m currently learning **Backend Development, cloud services, AWS**
 
 - 💬 Ask me about **JavaScript, NodeJS, Express, Frontend Development**
 
@@ -15,8 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" border-radius= 20% alt="coding"  width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">
+<p align="left">
 <a href="https://twitter.com/udit3944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udit3944" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/udit33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udit33" height="30" width="40" /></a>
+<a href="https://instagram.com/udit_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udit_33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
