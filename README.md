@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit3944&label=Profile%20views&color=0e75b6&style=flat" alt="udit3944" /> </p>
 
-- 🌱 I’m currently learning **Backend Development, cloud services, AWS**
+- 🌱 I’m currently learning ** UI & UX Designing, Backend Development, cloud services, AWS**
 
 - 💬 Ask me about **JavaScript, NodeJS, Express, Frontend Development**
 
