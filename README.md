@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Gami</h1>
-<h3 align="center">A passionate Web developer from Canada</h3>
+<h3 align="center">A passionate Web developer from Ontario, Canada</h3>
 
 - 🌱 I’m currently learning **Backend Development, cloud services, AWS**
 
